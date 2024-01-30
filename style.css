@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+header{
+    background-color: #bec3ea;
+    color: black;
+    text-align: center;
+    padding: 1em;
+}
+
+nav{
+    background-color: #bbbdf3;
+    padding: 1em;
+    a:hover {
+        color: white;
+    }
+    text-align: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+li{
+    display: inline;
+    margin-right: 50px;
+    font-size: large;
+    font-family: serif;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+.main {
+    background-color: #bec3ea;
+    padding: 20px;
+}
+body{
+    background-image: url("img.jpeg");
+}
